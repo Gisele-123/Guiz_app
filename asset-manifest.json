@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gisele-123.github.io/static/css/main.81f84492.css",
+    "main.js": "/gisele-123.github.io/static/js/main.16670055.js",
+    "index.html": "/gisele-123.github.io/index.html",
+    "main.81f84492.css.map": "/gisele-123.github.io/static/css/main.81f84492.css.map",
+    "main.16670055.js.map": "/gisele-123.github.io/static/js/main.16670055.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.81f84492.css",
+    "static/js/main.16670055.js"
+  ]
+}
